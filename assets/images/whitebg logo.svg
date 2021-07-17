@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82.565" height="77.183" viewBox="0 0 82.565 77.183">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.054" y1="0.482" x2="0.99" y2="0.53" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5e2c8b"/>
+      <stop offset="1" stop-color="#231f20"/>
+    </linearGradient>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard 1" transform="translate(-284.941 -192.282)">
+    <text id="TA" transform="translate(291.07 245.876)" font-size="46" font-family="Algerian" opacity="0.3"><tspan x="0" y="0">TA</tspan></text>
+    <path id="Path_18" data-name="Path 18" d="M355.556,237.62l-14.038,42.448L379.471,254l-43.931-1.51,35.093,27.576Z" transform="translate(-30.775 -27.51)" fill="#662d91" stroke="#662d91" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_19" data-name="Path 19" d="M359.913,245.65,346.74,284.165l35.621-23.65-41.231-1.369,32.935,25.019Z" transform="translate(-34.245 -32.494)" fill="#9e1f63" stroke="#9e1f63" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_20" data-name="Path 20" d="M331,264.253l.706,9.4a101.275,101.275,0,0,1,60.014-2.181c-8.679-5.773-22.6-12.874-39.569-12.176A58.9,58.9,0,0,0,331,264.253Z" transform="translate(-27.957 -40.932)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="39.634" cy="36.895" rx="39.634" ry="36.895" transform="translate(285.958 194.669) rotate(-0.99)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

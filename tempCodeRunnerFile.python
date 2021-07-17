@@ -1,0 +1,32 @@
+def countPrimes(l,r):
+        isPrime=[True for i in range(r+1)]
+  
+        i=2
+        c=0 
+        lis=[]
+        while(i<=r):
+            if isPrime[i] :
+                if i>=l:
+                    lis.append(i)
+                
+                j=i*i
+                while(j<=r):
+                    isPrime[j]=False
+                    j+=i1
+            
+            i+=1
+        # print(lis)
+        print(lis)
+        a=dict(zip(lis,1))
+        print(a)
+
+
+def main():
+    T=int(input())
+    while(T):
+        l,r=map(int,input().split())
+        print(countPrimes(l,r))
+        T-=1
+ # Write code here 
+
+main()
